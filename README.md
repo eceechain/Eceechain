@@ -92,7 +92,7 @@
 
 
 ## My Badges
-[![@ecee Holopin board](https://www.holopin.io/@ecee#)]
+[![@ecee Holopin board](https://www.holopin.io/api/user/board?user=ecee)](https://www.holopin.io/@ecee#)
 
 
 
