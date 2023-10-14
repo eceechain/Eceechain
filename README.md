@@ -3,7 +3,7 @@
 
 
 
-### <div align="center">I'm Anita Kahenya, a full-time full-stack developer  🚀👩‍💻</div>  
+### <div align="center">I'm Ecee Chain, a full-time full-stack developer  🚀👩‍💻</div>  
   
 
 - 🔭 I’m currently working to take my frontend skills to the next level.  
